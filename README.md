@@ -1,6 +1,6 @@
 # TechEd2018-CGE716: Everything That Went Wrong with My SAPUI5 App
 
-This is the examplatory code repository for TechEd Code Review Session CGET716 that was shown on TechEd 2018.
+This is the examplatory code repository for TechEd Code Review Session CGE716 that was shown on TechEd 2018.
 It is based on the SAPUI5 demo app "shopping cart" and outlines typical issues when developing complex apps with SAPUI5.
 
 ## Outline
