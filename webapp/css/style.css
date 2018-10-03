@@ -1,0 +1,55 @@
+/* override background color for non-accessibility themes */
+html:not(.sapUiTheme-sap_hcb):not(.sapUiTheme-sap_hcw):not(.sapUiTheme-sap_belize_hcb):not(.sapUiTheme-sap_belize_hcw) .customBackground section {
+	background-color: #bad0e3;
+}
+
+.sapUiDemoCart .welcomePrice  {
+	width: 100%;
+	padding: 0;
+	border-bottom-width: 0;
+}
+
+.sapUiDemoCart .welcomeCarouselText {
+	color: white;
+	display: block;
+	position: fixed;
+	bottom: 0;
+	padding: 1rem;
+	font-size: 1.5rem;
+	width: 100%;
+	text-shadow: 0 0 0.125rem black;
+}
+
+/*.sapMPanel {
+	background: rgb(20,255,235);
+	background: -moz-linear-gradient(-45deg, rgba(20,255,235,1) 0%, rgba(208,239,242,1) 33%, rgba(141,205,244,1) 41%, rgba(24,162,242,1) 53%, rgba(193,255,208,1) 62%, rgba(186,208,239,1) 75%, rgba(153,181,219,1) 88%, rgba(121,155,200,1) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(20,255,235,1) 0%,rgba(208,239,242,1) 33%,rgba(141,205,244,1) 41%,rgba(24,162,242,1) 53%,rgba(193,255,208,1) 62%,rgba(186,208,239,1) 75%,rgba(153,181,219,1) 88%,rgba(121,155,200,1) 100%);
+	background: linear-gradient(135deg, rgba(20,255,235,1) 0%,rgba(208,239,242,1) 33%,rgba(141,205,244,1) 41%,rgba(24,162,242,1) 53%,rgba(193,255,208,1) 62%,rgba(186,208,239,1) 75%,rgba(153,181,219,1) 88%,rgba(121,155,200,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#14ffeb', endColorstr='#799bc8',GradientType=1 );
+	border: 3px dotted #007BFF;
+	box-shadow: 5px 5px 50px #003B5B;
+	padding: 20px;
+}
+
+.sapMPanel h1 {
+	font-size: 25px;
+	font-weight: bold;
+	color: darkslategray;
+}*/
+
+/*.sapUiDemoCart .discountPanel {
+	background: rgb(20,255,235);
+	background: -moz-linear-gradient(-45deg, rgba(20,255,235,1) 0%, rgba(208,239,242,1) 33%, rgba(141,205,244,1) 41%, rgba(24,162,242,1) 53%, rgba(193,255,208,1) 62%, rgba(186,208,239,1) 75%, rgba(153,181,219,1) 88%, rgba(121,155,200,1) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(20,255,235,1) 0%,rgba(208,239,242,1) 33%,rgba(141,205,244,1) 41%,rgba(24,162,242,1) 53%,rgba(193,255,208,1) 62%,rgba(186,208,239,1) 75%,rgba(153,181,219,1) 88%,rgba(121,155,200,1) 100%);
+	background: linear-gradient(135deg, rgba(20,255,235,1) 0%,rgba(208,239,242,1) 33%,rgba(141,205,244,1) 41%,rgba(24,162,242,1) 53%,rgba(193,255,208,1) 62%,rgba(186,208,239,1) 75%,rgba(153,181,219,1) 88%,rgba(121,155,200,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#14ffeb', endColorstr='#799bc8',GradientType=1 );
+	border: 3px dotted #007BFF;
+	box-shadow: 5px 5px 50px #003B5B;
+	padding: 20px;
+}*/
+
+/*.sapUiDemoCart .discountTitle {
+	font-size: 25px;
+	font-weight: bold;
+	color: darkslategray;
+}*/
